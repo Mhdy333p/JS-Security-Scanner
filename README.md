@@ -71,7 +71,3 @@ The tool is pre-configured with the following safety and performance guards:
 ## ⚠️ Disclaimer
 
 This tool is intended for **authorized security auditing and educational purposes only**. Always ensure you have explicit permission before scanning codebases that you do not own.
-
----
-
-**Would you like me to add a specific section for Docker deployment or perhaps a "How it Works" section explaining the chunking logic in more detail?**
