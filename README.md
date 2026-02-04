@@ -2,6 +2,8 @@
 
 An elite, local-first **Red Team Security Audit** tool optimized for hardware with limited VRAM (e.g., RTX 3050 Ti 4GB). This tool leverages the `dolphin3:8b` model via Ollama to perform deep security analysis on JavaScript files, even those exceeding standard context windows.
 
+me and gemini
+
 ## 🚀 Features
 
 * **VRAM-Aware Chunking:** Automatically splits large `.js` files into manageable chunks to prevent "Out of Memory" errors on 4GB GPUs.
